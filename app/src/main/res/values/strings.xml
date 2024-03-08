@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Entrega_Dos</string>
+    <string name="calculadora">Calculadora</string>
+
+    <string name="botonSeno">Calculadora de seno</string>
+
+    <string name="Titulo_paraSeno">Calculadora de Seno</string>
+    <string name="seleccion_Seno">Seleccione el sistema de medición del ángulo que va a ingresar</string>
+    <string name="grados_Seno">Grados</string>
+    <string name="radianes_Seno">Radianes</string>
+    <string name="angulo_paraSeno">Ingrese el ángulo</string>
+    <string name="btn_calculoSeno">Calcular</string>
+
+    <string name="botonCoseno">Calculadora de coseno</string>
+
+    <string name="Titulo_paraCoseno">Calculadora de coseno</string>
+    <string name="seleccion_Coseno">Seleccione el sistema de medición del ángulo que va a ingresar</string>
+    <string name="grados_Coseno">Grados</string>
+    <string name="radianes_Coseno">Radianes</string>
+    <string name="angulo_paraCoseno">Ingrese el ángulo</string>
+    <string name="btn_calculoCoseno">Calcular</string>
+
+    <string name="botonPerimetro">Calculadora de perímetro</string>
+
+    <string name="Titulo_Perimetro">Calculadora de Perímetro</string>
+    <string name="lado_1">Ingrese la longitud del primer lado</string>
+    <string name="lado_2">Ingrese la longitud del segundo lado</string>
+    <string name="btn_calculoPerimetro">Calcular </string>
+
+    <string name="botonArea">Calculadora de área</string>
+
+    <string name="Titulo_Area">Calculadora de Área</string>
+    <string name="lado_1area">Ingrese la longitud del primer lado</string>
+    <string name="lado_2area">Ingrese la longitud del segundo lado</string>
+    <string name="btn_calculoArea">Calcular </string>
+
+    <string name="resultado">Resultado</string>
+
+</resources>
